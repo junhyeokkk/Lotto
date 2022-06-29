@@ -2,7 +2,7 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("ddddd");
+		System.out.println("오늘 점심 도연정 FIXED");
 <<<<<<< HEAD
 		
 		// 나도 하고싶단말이야~
