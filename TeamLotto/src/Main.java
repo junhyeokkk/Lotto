@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("ddddd");
 		System.out.println("ddddd");
 		System.out.println("ddddd");
+		System.out.println("점심 도연정 ㄱ?");
 	}
 
 }
